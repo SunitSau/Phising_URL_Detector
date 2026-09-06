@@ -27,16 +27,3 @@ The scanner evaluates the following indicators:
 * **Deceptive Keywords:** Scans for high-urgency bait terms often found in credential-harvesting paths (e.g., `verify`, `secure`, `bank`, `claim`, `update`).
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-* Python 3.8 or higher (No third-party libraries required; uses Python standard library only).
-
-### Installation & Execution
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/<YOUR-REPO>.git
-   cd <YOUR-REPO>
